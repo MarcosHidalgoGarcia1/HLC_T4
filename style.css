@@ -1,0 +1,26 @@
+.body{
+    font-family: "Open Sans", sans-serif;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+}
+
+.observaciones{
+    margin-left: 15px;
+}
+
+.container{
+    justify-content: space-between;
+    display: flex;
+}
+
+.header{
+    background-color: #0684fa;
+    color: #ffffff;
+    text-align: left;
+    padding: 15px;
+    font-size: 35px;
+    font-family: "Open Sans", sans-serif;
+}
